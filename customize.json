@@ -1,0 +1,31 @@
+{
+  "greeting": "你好呀",
+  "name": "实践部的新同学",
+  "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你们",
+  "wishText": "你们成为了我们温暖大家庭的重要一员。这里充满着真情与友爱，充满了对一切美好事物的追求或许眼前的新环境、新面孔会让你感到些许陌生与好奇但请相信，有乐于助人的学长学姐，他们会像家人一样，陪伴你、帮助你尽快适应新的学习生活",
+  "imagePath": "",
+  "text1": "明天就要和新同学见面了呀!!! :D",
+  "textInChatBox": "非常非常非常诚挚的祝贺你们成为实践部的成员！！！非常的祝贺……",
+  "sendButtonLabel": "发送",
+  "text2": "我想给你们一个惊喜",
+  "text3": "我认真的想了很久",
+  "text4": "我认识到，我想要做一些",
+  "text4Adjective": "特殊的事情",
+  "text5Entry": "因为，",
+  "text5Content": "团委实践部，对我来说很重要很特殊",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "新同学你们好呀!",
+  "outroText": "我希望你喜欢这个小小的惊喜!",
+  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
